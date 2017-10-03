@@ -1,0 +1,4 @@
+D:\PHAN KHA TU - B1\B3\bin\Debug\B3.exe
+D:\PHAN KHA TU - B1\B3\bin\Debug\B3.pdb
+D:\PHAN KHA TU - B1\B3\obj\x86\Debug\B3.exe
+D:\PHAN KHA TU - B1\B3\obj\x86\Debug\B3.pdb

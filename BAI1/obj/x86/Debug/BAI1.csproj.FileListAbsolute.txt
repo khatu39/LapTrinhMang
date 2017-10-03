@@ -1,0 +1,4 @@
+D:\PHAN KHA TU - B1\BAI1\bin\Debug\BAI1.exe
+D:\PHAN KHA TU - B1\BAI1\bin\Debug\BAI1.pdb
+D:\PHAN KHA TU - B1\BAI1\obj\x86\Debug\BAI1.exe
+D:\PHAN KHA TU - B1\BAI1\obj\x86\Debug\BAI1.pdb
